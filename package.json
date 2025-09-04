@@ -39,7 +39,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^43.1.1",
     "@ckeditor/ckeditor5-ui": "^43.1.1",
     "@ckeditor/ckeditor5-utils": "^43.1.1",
-    "@ckeditor/ckeditor5-word-count": "^43.1.1",
+    "@ckeditor/ckeditor5-word-count": "^46.0.0",
     "@claviska/jquery-minicolors": "^2.3.6",
     "at.js": "^1.5.4",
     "bootstrap": "^3.4.1",
